@@ -1,0 +1,21 @@
+body{
+  
+}
+#graphArea{
+  margin: 0px;
+  height: 5000px;
+}
+.dayBase{
+  background-color: gray;
+  position: relative;
+  height:70px;
+  margin: 0px;
+  
+}
+.sleeplogGraph{
+  background-color: blue;
+  position: absolute;
+  float: left;
+  height: 40px;
+  box-sizing: border-box;
+}
